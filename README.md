@@ -1,4 +1,4 @@
-2DWebDocumatation
+Documentação 2DWeb Framework
 =================
 
-2DWebFrameWork Documentation
+ Utilize o wiki para poder visualizar a documentação.
